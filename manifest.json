@@ -20,6 +20,6 @@
   ],
   "start_url": "/ScanBuy/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#dcdeff",
+  "background_color": "#f7f7ff"
 }
