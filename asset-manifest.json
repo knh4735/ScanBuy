@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ScanBuy/static/css/main.a1774ad8.chunk.css",
-    "main.js": "/ScanBuy/static/js/main.f17ea2cd.chunk.js",
-    "main.js.map": "/ScanBuy/static/js/main.f17ea2cd.chunk.js.map",
+    "main.js": "/ScanBuy/static/js/main.f3270de7.chunk.js",
+    "main.js.map": "/ScanBuy/static/js/main.f3270de7.chunk.js.map",
     "runtime~main.js": "/ScanBuy/static/js/runtime~main.5dc76342.js",
     "runtime~main.js.map": "/ScanBuy/static/js/runtime~main.5dc76342.js.map",
     "static/js/2.7dd5d0d6.chunk.js": "/ScanBuy/static/js/2.7dd5d0d6.chunk.js",
     "static/js/2.7dd5d0d6.chunk.js.map": "/ScanBuy/static/js/2.7dd5d0d6.chunk.js.map",
     "index.html": "/ScanBuy/index.html",
-    "precache-manifest.cdbaf5365cad1433505f26009dfa6ccd.js": "/ScanBuy/precache-manifest.cdbaf5365cad1433505f26009dfa6ccd.js",
+    "precache-manifest.7ca96b68bfdfe605fa939b0fc0412af8.js": "/ScanBuy/precache-manifest.7ca96b68bfdfe605fa939b0fc0412af8.js",
     "service-worker.js": "/ScanBuy/service-worker.js",
     "static/css/main.a1774ad8.chunk.css.map": "/ScanBuy/static/css/main.a1774ad8.chunk.css.map",
     "static/media/Bluetooth.svg": "/ScanBuy/static/media/Bluetooth.5f8df947.svg",
