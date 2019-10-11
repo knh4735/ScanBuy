@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fe4d4851ad3cfc6739b846cfdd9c4f9",
+    "revision": "c33eeaaa3ea8961e44cef08d36a9a1a6",
     "url": "/ScanBuy/index.html"
   },
   {
-    "revision": "c2a205b94a70d1f787c8",
-    "url": "/ScanBuy/static/css/main.a1774ad8.chunk.css"
+    "revision": "4611ec35fbc32082ab79",
+    "url": "/ScanBuy/static/css/main.a4c74979.chunk.css"
   },
   {
-    "revision": "0737e105f0f179000750",
-    "url": "/ScanBuy/static/js/2.7dd5d0d6.chunk.js"
+    "revision": "f5c46cb2c46a256fb38e",
+    "url": "/ScanBuy/static/js/2.55435b6d.chunk.js"
   },
   {
-    "revision": "c2a205b94a70d1f787c8",
-    "url": "/ScanBuy/static/js/main.f3270de7.chunk.js"
+    "revision": "4611ec35fbc32082ab79",
+    "url": "/ScanBuy/static/js/main.9c800540.chunk.js"
   },
   {
     "revision": "690737b25c800259b759",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f8df947fe0426b90293d6ba9334539f",
     "url": "/ScanBuy/static/media/Bluetooth.5f8df947.svg"
+  },
+  {
+    "revision": "8e350611c6b09abaea19d54f21805ae4",
+    "url": "/ScanBuy/static/media/Camera.8e350611.svg"
   },
   {
     "revision": "e47f3d6e2fb301e6553a80dd6486ca7c",
