@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f24924581b23b2ea06289af6e6379cf8",
+    "revision": "71e913b9332830206fc5831a86302d09",
     "url": "/ScanBuy/index.html"
   },
   {
-    "revision": "3383754e790cfab6c6c7",
-    "url": "/ScanBuy/static/css/main.a4c74979.chunk.css"
+    "revision": "3a51f5172c325905dcef",
+    "url": "/ScanBuy/static/css/main.f84e0e97.chunk.css"
   },
   {
-    "revision": "f5c46cb2c46a256fb38e",
-    "url": "/ScanBuy/static/js/2.55435b6d.chunk.js"
+    "revision": "a2866a6704efaec77bfc",
+    "url": "/ScanBuy/static/js/2.6f11cfb3.chunk.js"
   },
   {
-    "revision": "3383754e790cfab6c6c7",
-    "url": "/ScanBuy/static/js/main.a39ec7c8.chunk.js"
+    "revision": "3a51f5172c325905dcef",
+    "url": "/ScanBuy/static/js/main.55b86731.chunk.js"
   },
   {
     "revision": "690737b25c800259b759",
@@ -26,6 +26,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8e350611c6b09abaea19d54f21805ae4",
     "url": "/ScanBuy/static/media/Camera.8e350611.svg"
+  },
+  {
+    "revision": "f140b6aeddb4b37d66df4ab2981caf77",
+    "url": "/ScanBuy/static/media/Cart.f140b6ae.svg"
+  },
+  {
+    "revision": "5346fe639b49dbb456ebd9f15cf8233a",
+    "url": "/ScanBuy/static/media/Detector.5346fe63.svg"
+  },
+  {
+    "revision": "fcdc9670c07de08fdcaa1be1d34c34b5",
+    "url": "/ScanBuy/static/media/History.fcdc9670.svg"
   },
   {
     "revision": "e47f3d6e2fb301e6553a80dd6486ca7c",
