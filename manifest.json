@@ -19,7 +19,7 @@
     }
   ],
   "scope": "/ScanBuy/",
-  "start_url": "./",
+  "start_url": ".",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#f5f6fc",
