@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71e913b9332830206fc5831a86302d09",
+    "revision": "2d336c83c7a5bf52a4bbaa102ff1e5c5",
     "url": "/ScanBuy/index.html"
   },
   {
-    "revision": "3a51f5172c325905dcef",
-    "url": "/ScanBuy/static/css/main.f84e0e97.chunk.css"
+    "revision": "10027a0281dce53a2186",
+    "url": "/ScanBuy/static/css/main.a5cc2f20.chunk.css"
   },
   {
     "revision": "a2866a6704efaec77bfc",
     "url": "/ScanBuy/static/js/2.6f11cfb3.chunk.js"
   },
   {
-    "revision": "3a51f5172c325905dcef",
-    "url": "/ScanBuy/static/js/main.55b86731.chunk.js"
+    "revision": "10027a0281dce53a2186",
+    "url": "/ScanBuy/static/js/main.1e5e3671.chunk.js"
   },
   {
     "revision": "690737b25c800259b759",
@@ -40,15 +40,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ScanBuy/static/media/History.fcdc9670.svg"
   },
   {
+    "revision": "1b586e24e833a7db1d88803ce1e4b1a3",
+    "url": "/ScanBuy/static/media/Logo.1b586e24.svg"
+  },
+  {
     "revision": "e47f3d6e2fb301e6553a80dd6486ca7c",
     "url": "/ScanBuy/static/media/NFC.e47f3d6e.svg"
   },
   {
     "revision": "1df127c3c48ad5dcf0c9f43fb908d5bd",
     "url": "/ScanBuy/static/media/QRCode.1df127c3.svg"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/ScanBuy/static/media/logo.5d5d9eef.svg"
   }
 ]);
