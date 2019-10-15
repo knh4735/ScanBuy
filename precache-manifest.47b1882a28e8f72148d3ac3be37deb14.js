@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a215bcf1150a083a5e0cbb9aeba0e16",
+    "revision": "ed1454ede6f0a5c8d82a2ee089aeb5d7",
     "url": "/ScanBuy/index.html"
   },
   {
-    "revision": "321f47e6ede602afbb97",
+    "revision": "6a1daa52c6e9c0ce32b5",
     "url": "/ScanBuy/static/css/main.b487afa7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ScanBuy/static/js/2.ee871104.chunk.js"
   },
   {
-    "revision": "321f47e6ede602afbb97",
-    "url": "/ScanBuy/static/js/main.c591fc08.chunk.js"
+    "revision": "6a1daa52c6e9c0ce32b5",
+    "url": "/ScanBuy/static/js/main.0c9197ab.chunk.js"
   },
   {
     "revision": "690737b25c800259b759",
@@ -140,8 +140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ScanBuy/static/media/History.fcdc9670.svg"
   },
   {
-    "revision": "1b586e24e833a7db1d88803ce1e4b1a3",
-    "url": "/ScanBuy/static/media/Logo.1b586e24.svg"
+    "revision": "59500c3c2f3fc86deac6701690b7537c",
+    "url": "/ScanBuy/static/media/Logo.59500c3c.svg"
   },
   {
     "revision": "e47f3d6e2fb301e6553a80dd6486ca7c",

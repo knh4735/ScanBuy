@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ScanBuy/static/css/main.b487afa7.chunk.css",
-    "main.js": "/ScanBuy/static/js/main.c591fc08.chunk.js",
-    "main.js.map": "/ScanBuy/static/js/main.c591fc08.chunk.js.map",
+    "main.js": "/ScanBuy/static/js/main.0c9197ab.chunk.js",
+    "main.js.map": "/ScanBuy/static/js/main.0c9197ab.chunk.js.map",
     "runtime~main.js": "/ScanBuy/static/js/runtime~main.5dc76342.js",
     "runtime~main.js.map": "/ScanBuy/static/js/runtime~main.5dc76342.js.map",
     "static/js/2.ee871104.chunk.js": "/ScanBuy/static/js/2.ee871104.chunk.js",
     "static/js/2.ee871104.chunk.js.map": "/ScanBuy/static/js/2.ee871104.chunk.js.map",
     "index.html": "/ScanBuy/index.html",
-    "precache-manifest.eac49bc2a34628ad8466c4c5c97ffa70.js": "/ScanBuy/precache-manifest.eac49bc2a34628ad8466c4c5c97ffa70.js",
+    "precache-manifest.47b1882a28e8f72148d3ac3be37deb14.js": "/ScanBuy/precache-manifest.47b1882a28e8f72148d3ac3be37deb14.js",
     "service-worker.js": "/ScanBuy/service-worker.js",
     "static/css/main.b487afa7.chunk.css.map": "/ScanBuy/static/css/main.b487afa7.chunk.css.map",
     "static/media/Bluetooth.svg": "/ScanBuy/static/media/Bluetooth.5f8df947.svg",
@@ -41,7 +41,7 @@
     "static/media/Galaxy Watch Active2 44mm (Bluetooth).webp": "/ScanBuy/static/media/Galaxy Watch Active2 44mm (Bluetooth).02843896.webp",
     "static/media/Gear VR with Controller (R3250).webp": "/ScanBuy/static/media/Gear VR with Controller (R3250).68c514b4.webp",
     "static/media/History.svg": "/ScanBuy/static/media/History.fcdc9670.svg",
-    "static/media/Logo.svg": "/ScanBuy/static/media/Logo.1b586e24.svg",
+    "static/media/Logo.svg": "/ScanBuy/static/media/Logo.59500c3c.svg",
     "static/media/NFC.svg": "/ScanBuy/static/media/NFC.e47f3d6e.svg",
     "static/media/QRCode.svg": "/ScanBuy/static/media/QRCode.1df127c3.svg"
   }
