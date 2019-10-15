@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ScanBuy/static/css/main.b487afa7.chunk.css",
-    "main.js": "/ScanBuy/static/js/main.148b16f9.chunk.js",
-    "main.js.map": "/ScanBuy/static/js/main.148b16f9.chunk.js.map",
+    "main.css": "/ScanBuy/static/css/main.9253b4e8.chunk.css",
+    "main.js": "/ScanBuy/static/js/main.8e6ea21d.chunk.js",
+    "main.js.map": "/ScanBuy/static/js/main.8e6ea21d.chunk.js.map",
     "runtime~main.js": "/ScanBuy/static/js/runtime~main.5dc76342.js",
     "runtime~main.js.map": "/ScanBuy/static/js/runtime~main.5dc76342.js.map",
     "static/js/2.ee871104.chunk.js": "/ScanBuy/static/js/2.ee871104.chunk.js",
     "static/js/2.ee871104.chunk.js.map": "/ScanBuy/static/js/2.ee871104.chunk.js.map",
     "index.html": "/ScanBuy/index.html",
-    "precache-manifest.b50ea63939eb19beb44289dc829ace15.js": "/ScanBuy/precache-manifest.b50ea63939eb19beb44289dc829ace15.js",
+    "precache-manifest.6cee7162b106eb2e9b479d8200658d24.js": "/ScanBuy/precache-manifest.6cee7162b106eb2e9b479d8200658d24.js",
     "service-worker.js": "/ScanBuy/service-worker.js",
-    "static/css/main.b487afa7.chunk.css.map": "/ScanBuy/static/css/main.b487afa7.chunk.css.map",
+    "static/css/main.9253b4e8.chunk.css.map": "/ScanBuy/static/css/main.9253b4e8.chunk.css.map",
     "static/media/Bluetooth.svg": "/ScanBuy/static/media/Bluetooth.5f8df947.svg",
     "static/media/Camera.svg": "/ScanBuy/static/media/Camera.8e350611.svg",
     "static/media/Cart.svg": "/ScanBuy/static/media/Cart.f140b6ae.svg",
@@ -41,7 +41,7 @@
     "static/media/Galaxy Watch Active2 44mm (Bluetooth).webp": "/ScanBuy/static/media/Galaxy Watch Active2 44mm (Bluetooth).02843896.webp",
     "static/media/Gear VR with Controller (R3250).webp": "/ScanBuy/static/media/Gear VR with Controller (R3250).68c514b4.webp",
     "static/media/History.svg": "/ScanBuy/static/media/History.fcdc9670.svg",
-    "static/media/Logo.svg": "/ScanBuy/static/media/Logo.59500c3c.svg",
+    "static/media/Logo.svg": "/ScanBuy/static/media/Logo.f748067d.svg",
     "static/media/NFC.svg": "/ScanBuy/static/media/NFC.e47f3d6e.svg",
     "static/media/QRCode.svg": "/ScanBuy/static/media/QRCode.1df127c3.svg"
   }
