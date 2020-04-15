@@ -1,0 +1,72 @@
+.Pay {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f3fb;
+}
+
+.Pay-slide {
+  position: absolute;
+  left: 1px;
+  width: 18vw;
+  height: 38px;
+  line-height: 35px;
+  background-color: #edefff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #c6ceff;
+  text-align: center;
+  font-size: calc(10px + 4vmin);
+
+  animation: Pay-slide-bounce ease-in 2s infinite;
+}
+.Pay-slide-text {
+  user-select: none;
+}
+
+.Pay-price {
+  font-size: calc(10px + 4vmin);
+}
+
+@keyframes Pay-slide-bounce {
+  0% {
+    left: 0;
+  }
+  10% {
+    left: 8px;
+  }
+  20% {
+    left: 0;
+  }
+  30% {
+    left: 5px;
+  }
+  40% {
+    left: 0px;
+  }
+  50% {
+    left: 3px;
+  }
+  60% {
+    left: 0px;
+  }
+  70% {
+    left: 1px;
+  }
+  80% {
+    left: 0px;
+  }
+  90% {
+    left: 0px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+
+@keyframes Pay-slide-back {
+  to {
+    left: 1px;
+  }
+}

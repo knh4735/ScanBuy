@@ -1,0 +1,30 @@
+.History {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.History-items {
+  z-index: 1;
+  flex: 1;
+}
+
+.History-info {
+  z-index: 1;
+  height: 40px;
+  background-color: #f2f3fb;
+  font-size: calc(10px + 3vmin);
+  text-align: center;
+  line-height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.History-watermark {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  opacity: 0.03;
+}

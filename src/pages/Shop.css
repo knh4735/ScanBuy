@@ -1,0 +1,22 @@
+.Shop {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.Shop-header {
+  flex: 2;
+  background-color: #f5f6fc;
+}
+
+.Shop-main {
+  flex: 25;
+  background-color: #ffffff;
+}
+
+.Shop-tab {
+  flex: 2;
+  background-color: #f5f6fc;
+}

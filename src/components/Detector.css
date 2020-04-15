@@ -1,0 +1,48 @@
+.Detector {
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+}
+
+.Detector-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.Detector-text {
+  font-size: calc(10px + 3vw);
+}
+
+.Detector-nfc {
+  fill: #dfdfdf;
+}
+
+.Detector-bluetooth {
+  fill: #afdeff;
+}
+
+.Detector-barcode {
+  fill: #fffcaf;
+}
+
+.Detector-img {
+  width: 100px;
+  height: 100px;
+}
+
+.Detector-text {
+  text-anchor: middle;
+}
+
+.Detector-barcode-text {
+  fill: #191712;
+}
+
+.Detector-nfc-text {
+  fill: #868686;
+}
+
+.Detector-bluetooth-text {
+  fill: #003256;
+}

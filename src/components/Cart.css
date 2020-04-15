@@ -1,0 +1,23 @@
+.Cart {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.Cart-items {
+  z-index: 1;
+  flex: 1;
+}
+
+.Cart-pay {
+  z-index: 1;
+  height: 40px;
+}
+
+.Cart-watermark {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  opacity: 0.03;
+}

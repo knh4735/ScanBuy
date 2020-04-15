@@ -1,0 +1,35 @@
+.Tab {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid #e4e8ff;
+}
+
+.Tab-link {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Tab-link:not(:last-child) {
+  border-right: 1px solid #e4e8ff;
+}
+
+.Tab-link:not(.active) {
+  background-color: #eceeff;
+  opacity: 0.6;
+}
+
+.Tab-link-img {
+  width: 20px;
+}
+
+.Tab-link-text {
+  font-size: calc(10px + 1vw);
+}

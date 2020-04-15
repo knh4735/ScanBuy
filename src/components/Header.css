@@ -1,0 +1,25 @@
+.Header {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Header-logo {
+  width: 11vw;
+  height: 11vw;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+
+.Header-title {
+  flex: 1;
+  font-size: calc(10px + 2.5vmin);
+  color: #424b7d;
+}
+
+.Header-img {
+  height: 5vw;
+  margin-right: 15px;
+}
